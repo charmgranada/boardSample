@@ -6,6 +6,8 @@
  * @author Tatsuya Tsuruoka <http://github.com/ttsuruoka>
  * @link https://github.com/dietcake/dietcake-showcase
  */
+//require_once VENDOR_DIR.'SimpleDBI/src/SimpleDBI.php';
+
 function url($url = '', $params = array())
 {
     $query = http_build_query($params);

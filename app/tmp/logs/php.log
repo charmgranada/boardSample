@@ -1,0 +1,972 @@
+[20-May-2014 12:21:03 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[20-May-2014 12:21:08 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'action does not exist' in /Users/charmelle/Sites/board/dietcake/core/controller.php:36
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(12): Controller->dispatchAction()
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/controller.php on line 36
+[20-May-2014 13:47:11 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[20-May-2014 15:48:56 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[20-May-2014 15:48:58 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[20-May-2014 15:49:06 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[20-May-2014 15:49:15 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'action does not exist' in /Users/charmelle/Sites/board/dietcake/core/controller.php:36
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(12): Controller->dispatchAction()
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/controller.php on line 36
+[20-May-2014 15:49:55 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'action does not exist' in /Users/charmelle/Sites/board/dietcake/core/controller.php:36
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(12): Controller->dispatchAction()
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/controller.php on line 36
+[20-May-2014 15:54:24 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('phpinfo.php')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[20-May-2014 15:59:05 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'action does not exist' in /Users/charmelle/Sites/board/dietcake/core/controller.php:36
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(12): Controller->dispatchAction()
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/controller.php on line 36
+[20-May-2014 16:15:48 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[20-May-2014 16:15:58 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[20-May-2014 16:17:03 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[20-May-2014 16:25:00 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[20-May-2014 16:28:26 Asia/Manila] PHP Fatal error:  Class 'DB' not found in /Users/charmelle/Sites/board/app/models/thread.php on line 8
+[20-May-2014 16:33:01 Asia/Manila] PHP Fatal error:  Class 'DB' not found in /Users/charmelle/Sites/board/app/models/thread.php on line 8
+[20-May-2014 16:34:30 Asia/Manila] PHP Fatal error:  Class 'DB' not found in /Users/charmelle/Sites/board/app/models/thread.php on line 8
+[20-May-2014 16:52:19 Asia/Manila] PHP Fatal error:  Class 'DB' not found in /Users/charmelle/Sites/board/app/models/thread.php on line 8
+[20-May-2014 16:52:23 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[20-May-2014 17:13:21 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[20-May-2014 17:17:06 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[20-May-2014 17:23:14 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[20-May-2014 17:23:16 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[20-May-2014 18:14:00 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[21-May-2014 14:56:42 Asia/Manila] PHP Fatal error:  Class 'DB' not found in /Users/charmelle/Sites/board/app/models/thread.php on line 8
+[21-May-2014 15:18:51 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[21-May-2014 15:31:58 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[21-May-2014 15:32:19 Asia/Manila] PHP Fatal error:  Class 'DB' not found in /Users/charmelle/Sites/board/app/models/thread.php on line 8
+[21-May-2014 15:33:58 Asia/Manila] PHP Notice:  Undefined variable: threads in /Users/charmelle/Sites/board/app/views/thread/index.php on line 4
+[21-May-2014 15:33:58 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /Users/charmelle/Sites/board/app/views/thread/index.php on line 4
+[21-May-2014 15:33:58 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 15:35:21 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 15:39:07 Asia/Manila] PHP Fatal error:  Class 'DB' not found in /Users/charmelle/Sites/board/app/models/thread.php on line 8
+[21-May-2014 15:56:12 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[21-May-2014 16:17:17 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 16:28:41 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 16:29:34 Asia/Manila] PHP Fatal error:  Class 'DB' not found in /Users/charmelle/Sites/board/app/models/thread.php on line 8
+[21-May-2014 16:29:41 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[21-May-2014 16:34:09 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[21-May-2014 16:34:14 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[21-May-2014 16:34:43 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 16:34:52 Asia/Manila] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'board'' in /Users/charmelle/Sites/board/vendor/SimpleDBI/src/SimpleDBI.php:21
+Stack trace:
+#0 /Users/charmelle/Sites/board/vendor/SimpleDBI/src/SimpleDBI.php(21): PDO->__construct('mysql:host=loca...', 'board_root', '', Array)
+#1 /Users/charmelle/Sites/board/vendor/SimpleDBI/src/SimpleDBI.php(72): SimpleDBI->__construct('mysql:host=loca...', 'board_root', '', Array)
+#2 /Users/charmelle/Sites/board/app/models/thread.php(8): SimpleDBI::conn()
+#3 /Users/charmelle/Sites/board/app/controllers/thread_controller.php(6): Thread::getAll()
+#4 /Users/charmelle/Sites/board/dietcake/core/controller.php(46): ThreadController->index()
+#5 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(12): Controller->dispatchAction()
+#6 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#7 {main}
+  thrown in /Users/charmelle/Sites/board/vendor/SimpleDBI/src/SimpleDBI.php on line 21
+[21-May-2014 16:36:31 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[21-May-2014 16:36:37 Asia/Manila] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'board'' in /Users/charmelle/Sites/board/vendor/SimpleDBI/src/SimpleDBI.php:21
+Stack trace:
+#0 /Users/charmelle/Sites/board/vendor/SimpleDBI/src/SimpleDBI.php(21): PDO->__construct('mysql:host=loca...', 'board_root', '', Array)
+#1 /Users/charmelle/Sites/board/vendor/SimpleDBI/src/SimpleDBI.php(72): SimpleDBI->__construct('mysql:host=loca...', 'board_root', '', Array)
+#2 /Users/charmelle/Sites/board/app/models/thread.php(8): SimpleDBI::conn()
+#3 /Users/charmelle/Sites/board/app/controllers/thread_controller.php(6): Thread::getAll()
+#4 /Users/charmelle/Sites/board/dietcake/core/controller.php(46): ThreadController->index()
+#5 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(12): Controller->dispatchAction()
+#6 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#7 {main}
+  thrown in /Users/charmelle/Sites/board/vendor/SimpleDBI/src/SimpleDBI.php on line 21
+[21-May-2014 16:37:04 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 16:39:00 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[21-May-2014 16:39:30 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[21-May-2014 16:39:34 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:39:34 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:39:34 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:39:34 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:39:34 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:39:34 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:39:34 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:39:34 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:39:34 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:39:34 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:39:34 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 16:39:55 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[21-May-2014 16:40:02 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:40:02 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:40:02 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:40:02 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:40:02 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:40:02 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:40:02 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:40:02 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:40:02 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:40:02 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:40:02 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 16:40:02 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:40:02 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:40:02 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:40:02 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:40:02 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:40:02 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:40:02 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:40:02 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:40:02 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:40:02 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:40:02 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 16:43:03 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:43:03 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:43:03 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:03 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:03 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:03 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:03 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:03 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:03 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:03 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:03 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 16:43:04 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:43:04 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:43:04 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:04 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:04 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:04 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:04 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:04 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:04 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:04 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:04 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 16:43:20 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:43:20 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:43:20 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:20 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:20 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:20 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:20 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:20 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:20 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:20 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:20 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 16:43:21 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:43:21 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:43:21 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:21 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:21 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:21 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:21 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:21 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:21 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:21 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:21 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 16:43:21 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:43:21 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:43:21 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:21 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:21 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:21 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:21 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:21 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:21 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:21 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:21 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 16:43:22 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:43:22 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:43:22 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:22 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:22 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:22 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:22 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:22 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:22 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:22 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:22 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 16:43:22 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:43:22 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:43:22 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:22 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:22 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:22 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:22 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:22 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:22 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:22 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:43:22 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 16:48:29 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:48:29 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:48:29 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:48:29 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:48:29 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:48:29 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:48:29 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:48:29 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:48:29 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:48:29 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:48:29 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 16:51:34 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:51:34 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:51:34 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:51:34 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:51:34 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:51:34 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:51:34 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:51:34 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:51:34 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:51:34 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:51:34 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 16:51:42 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:51:42 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:51:42 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:51:42 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:51:42 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:51:42 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:51:42 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:51:42 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:51:42 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:51:42 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:51:42 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 16:54:19 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:54:19 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:54:19 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:54:19 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:54:19 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:54:19 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:54:19 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:54:19 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:54:19 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:54:19 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:54:19 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 16:54:25 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:54:25 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:54:25 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:54:25 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:54:25 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:54:25 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:54:25 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:54:25 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:54:25 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:54:25 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:54:25 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 16:57:31 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:57:31 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:57:31 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:57:31 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:57:31 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:57:31 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:57:31 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:57:31 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:57:31 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:57:31 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:57:31 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 16:57:33 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:57:33 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:57:33 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:57:33 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:57:33 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:57:33 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:57:33 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:57:33 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:57:33 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:57:33 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:57:33 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 16:58:06 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:58:06 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:58:06 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:58:06 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:58:06 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:58:06 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:58:06 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:58:06 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:58:06 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:58:06 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:58:06 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 16:58:56 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:58:56 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 16:58:56 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:58:56 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:58:56 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:58:56 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:58:56 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:58:56 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:58:56 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:58:56 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 16:58:56 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 17:00:08 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[21-May-2014 17:04:43 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 17:04:43 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 17:04:43 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:43 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:43 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:43 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:43 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:43 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:43 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:43 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:43 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 17:04:44 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 17:04:44 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 17:04:44 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:44 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:44 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:44 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:44 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:44 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:44 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:44 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:44 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 17:04:52 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 17:04:52 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 17:04:52 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:52 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:52 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:52 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:52 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:52 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:52 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:52 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:04:52 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 17:06:45 Asia/Manila] PHP Warning:  PDO::__construct(): [2002] No such file or directory (trying to connect via unix:///var/mysql/mysql.sock) in /Users/charmelle/Sites/board/vendor/SimpleDBI/src/SimpleDBI.php on line 21
+[21-May-2014 17:06:45 Asia/Manila] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /Users/charmelle/Sites/board/vendor/SimpleDBI/src/SimpleDBI.php:21
+Stack trace:
+#0 /Users/charmelle/Sites/board/vendor/SimpleDBI/src/SimpleDBI.php(21): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /Users/charmelle/Sites/board/vendor/SimpleDBI/src/SimpleDBI.php(72): SimpleDBI->__construct('mysql:host=loca...', 'root', '', Array)
+#2 /Users/charmelle/Sites/board/app/models/thread.php(8): SimpleDBI::conn()
+#3 /Users/charmelle/Sites/board/app/controllers/thread_controller.php(6): Thread::getAll()
+#4 /Users/charmelle/Sites/board/dietcake/core/controller.php(46): ThreadController->index()
+#5 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(12): Controller->dispatchAction()
+#6 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#7 {main}
+  thrown in /Users/charmelle/Sites/board/vendor/SimpleDBI/src/SimpleDBI.php on line 21
+[21-May-2014 17:06:59 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 17:06:59 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 17:06:59 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:06:59 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:06:59 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:06:59 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:06:59 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:06:59 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:06:59 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:06:59 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:06:59 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 17:08:25 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 17:08:25 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 92
+[21-May-2014 17:08:25 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 92
+[21-May-2014 17:08:25 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:08:25 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:08:25 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:08:25 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:08:25 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:08:25 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:08:25 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:08:25 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:08:25 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 17:08:34 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 17:08:34 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 92
+[21-May-2014 17:08:34 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 92
+[21-May-2014 17:08:34 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:08:34 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:08:34 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:08:34 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:08:34 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:08:34 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:08:34 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:08:34 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:08:34 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 17:09:03 Asia/Manila] PHP Warning:  date_default_timezone_get(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 91
+[21-May-2014 17:09:03 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 92
+[21-May-2014 17:09:03 Asia/Manila] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Manila' for 'PHT/8.0/no DST' instead in /Users/charmelle/Sites/board/app/config/log.php on line 92
+[21-May-2014 17:09:03 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:03 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:03 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:03 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:03 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:03 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:03 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:03 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:03 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 17:09:28 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:28 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:28 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:28 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:28 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:28 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:28 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:28 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:28 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 17:09:36 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:36 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:36 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:36 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:36 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:36 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:36 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:36 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:09:36 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 17:19:21 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:19:21 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:19:21 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:19:21 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:19:21 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:19:21 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:19:21 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:19:21 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:19:21 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 17:20:23 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:20:23 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:20:23 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:20:23 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:20:23 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:20:23 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:20:23 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:20:23 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:20:23 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 17:28:38 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:28:38 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:28:38 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:28:38 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:28:38 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:28:38 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:28:38 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:28:38 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 17:28:38 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 18:33:29 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:33:29 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:33:29 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:33:29 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:33:29 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:33:29 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:33:29 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:33:29 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:33:29 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 18:39:11 Asia/Manila] PHP Parse error:  parse error in /Users/charmelle/Sites/board/app/controllers/thread_controller.php on line 26
+[21-May-2014 18:40:08 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:08 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:08 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:08 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:08 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:08 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:08 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:08 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:08 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 18:40:26 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:26 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:26 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:26 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:26 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:26 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:26 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:26 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:26 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 18:40:27 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:27 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:27 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:27 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:27 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:27 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:27 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:27 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:40:27 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 18:40:36 Asia/Manila] PHP Parse error:  parse error in /Users/charmelle/Sites/board/app/controllers/thread_controller.php on line 26
+[21-May-2014 18:40:36 Asia/Manila] PHP Parse error:  parse error in /Users/charmelle/Sites/board/app/controllers/thread_controller.php on line 26
+[21-May-2014 18:41:16 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:41:16 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:41:16 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:41:16 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:41:16 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:41:16 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:41:16 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:41:16 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:41:16 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 18:42:07 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:07 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:07 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:07 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:07 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:07 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:07 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:07 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:07 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 18:42:23 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:23 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:23 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:23 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:23 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:23 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:23 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:23 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:23 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 18:42:36 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:36 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:36 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:36 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:36 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:36 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:36 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:36 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:42:36 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 18:44:28 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:44:28 Asia/Manila] PHP Notice:  Use of undefined constant view - assumed 'view' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:44:28 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:44:28 Asia/Manila] PHP Notice:  Use of undefined constant php’ - assumed 'php’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:44:28 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:44:28 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:44:28 Asia/Manila] PHP Notice:  Use of undefined constant view - assumed 'view' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:44:28 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:44:28 Asia/Manila] PHP Notice:  Use of undefined constant php’ - assumed 'php’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:44:28 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:44:28 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 18:51:28 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:51:28 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:51:28 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:51:28 Asia/Manila] PHP Notice:  Use of undefined constant ’id’ - assumed '’id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:51:28 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:51:28 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:51:28 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:51:28 Asia/Manila] PHP Notice:  Use of undefined constant ’id’ - assumed '’id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 18:51:28 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 18:52:03 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 18:58:46 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 18:58:48 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 18:58:49 Asia/Manila] PHP Notice:  Undefined variable: title in /Users/charmelle/Sites/board/app/views/layouts/default.php on line 5
+[21-May-2014 19:00:14 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:00:14 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:00:14 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:00:14 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:00:14 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:00:14 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:00:14 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:00:14 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:09:40 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:09:40 Asia/Manila] PHP Notice:  Use of undefined constant view - assumed 'view' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:09:40 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:09:40 Asia/Manila] PHP Notice:  Use of undefined constant php’ - assumed 'php’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:09:40 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:09:40 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:09:40 Asia/Manila] PHP Notice:  Use of undefined constant view - assumed 'view' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:09:40 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:09:40 Asia/Manila] PHP Notice:  Use of undefined constant php’ - assumed 'php’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:09:40 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:09:59 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:09:59 Asia/Manila] PHP Notice:  Use of undefined constant view - assumed 'view' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:09:59 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:09:59 Asia/Manila] PHP Notice:  Use of undefined constant php’ - assumed 'php’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:09:59 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:09:59 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:09:59 Asia/Manila] PHP Notice:  Use of undefined constant view - assumed 'view' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:09:59 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:09:59 Asia/Manila] PHP Notice:  Use of undefined constant php’ - assumed 'php’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:09:59 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:10:28 Asia/Manila] PHP Notice:  Use of undefined constant ’view’ - assumed '’view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:10:28 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:10:28 Asia/Manila] PHP Notice:  Use of undefined constant ’view’ - assumed '’view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:10:28 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:17:55 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:17:55 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:17:55 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:17:55 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:17:55 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:17:55 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:17:55 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:17:55 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:18:06 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:18:06 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:18:06 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:18:06 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:18:06 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:18:06 Asia/Manila] PHP Notice:  Use of undefined constant view’ - assumed 'view’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:18:06 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:18:06 Asia/Manila] PHP Notice:  Use of undefined constant ’thread_id’ - assumed '’thread_id’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 6
+[21-May-2014 19:21:44 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[21-May-2014 19:23:18 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[21-May-2014 19:26:23 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 39
+[22-May-2014 13:33:39 Asia/Manila] PHP Warning:  PDO::__construct(): [2002] No such file or directory (trying to connect via unix:///var/mysql/mysql.sock) in /Users/charmelle/Sites/board/vendor/SimpleDBI/src/SimpleDBI.php on line 21
+[22-May-2014 13:33:39 Asia/Manila] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /Users/charmelle/Sites/board/vendor/SimpleDBI/src/SimpleDBI.php:21
+Stack trace:
+#0 /Users/charmelle/Sites/board/vendor/SimpleDBI/src/SimpleDBI.php(21): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /Users/charmelle/Sites/board/vendor/SimpleDBI/src/SimpleDBI.php(72): SimpleDBI->__construct('mysql:host=loca...', 'root', '', Array)
+#2 /Users/charmelle/Sites/board/app/models/thread.php(53): SimpleDBI::conn()
+#3 /Users/charmelle/Sites/board/app/controllers/thread_controller.php(35): Thread::getAll()
+#4 /Users/charmelle/Sites/board/dietcake/core/controller.php(46): ThreadController->index()
+#5 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(12): Controller->dispatchAction()
+#6 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#7 {main}
+  thrown in /Users/charmelle/Sites/board/vendor/SimpleDBI/src/SimpleDBI.php on line 21
+[22-May-2014 16:10:23 Asia/Manila] PHP Warning:  PDO::__construct(): [2002] No such file or directory (trying to connect via unix:///var/mysql/mysql.sock) in /Users/charmelle/Sites/board/vendor/SimpleDBI/src/SimpleDBI.php on line 21
+[22-May-2014 16:10:23 Asia/Manila] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /Users/charmelle/Sites/board/vendor/SimpleDBI/src/SimpleDBI.php:21
+Stack trace:
+#0 /Users/charmelle/Sites/board/vendor/SimpleDBI/src/SimpleDBI.php(21): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /Users/charmelle/Sites/board/vendor/SimpleDBI/src/SimpleDBI.php(72): SimpleDBI->__construct('mysql:host=loca...', 'root', '', Array)
+#2 /Users/charmelle/Sites/board/app/models/thread.php(53): SimpleDBI::conn()
+#3 /Users/charmelle/Sites/board/app/controllers/thread_controller.php(35): Thread::getAll()
+#4 /Users/charmelle/Sites/board/dietcake/core/controller.php(46): ThreadController->index()
+#5 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(12): Controller->dispatchAction()
+#6 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#7 {main}
+  thrown in /Users/charmelle/Sites/board/vendor/SimpleDBI/src/SimpleDBI.php on line 21
+[22-May-2014 16:10:28 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[22-May-2014 16:43:38 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'invalid url format' in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php:29
+Stack trace:
+#0 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(6): Dispatcher::parseAction('thread')
+#1 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#2 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/dispatcher.php on line 29
+[22-May-2014 16:43:44 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 39
+[22-May-2014 17:05:57 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[22-May-2014 17:06:23 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 31
+[22-May-2014 17:06:38 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 31
+[22-May-2014 17:09:58 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[22-May-2014 17:23:32 Asia/Manila] PHP Notice:  Undefined variable: thread_id in /Users/charmelle/Sites/board/app/models/thread.php on line 30
+[22-May-2014 17:23:32 Asia/Manila] PHP Notice:  Undefined variable: rows in /Users/charmelle/Sites/board/app/models/thread.php on line 36
+[22-May-2014 17:23:32 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /Users/charmelle/Sites/board/app/models/thread.php on line 36
+[22-May-2014 17:23:32 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/view.php on line 15
+[22-May-2014 17:23:32 Asia/Manila] PHP Notice:  Use of undefined constant write’ - assumed 'write’' in /Users/charmelle/Sites/board/app/views/thread/view.php on line 15
+[22-May-2014 17:23:32 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/view.php on line 15
+[22-May-2014 17:23:32 Asia/Manila] PHP Notice:  Use of undefined constant ’username’ - assumed '’username’' in /Users/charmelle/Sites/board/app/views/thread/view.php on line 17
+[22-May-2014 17:23:32 Asia/Manila] PHP Notice:  Use of undefined constant ’body’ - assumed '’body’' in /Users/charmelle/Sites/board/app/views/thread/view.php on line 19
+[22-May-2014 17:24:04 Asia/Manila] PHP Notice:  Undefined variable: this in /Users/charmelle/Sites/board/app/models/thread.php on line 30
+[22-May-2014 17:24:04 Asia/Manila] PHP Notice:  Undefined variable: rows in /Users/charmelle/Sites/board/app/models/thread.php on line 36
+[22-May-2014 17:24:04 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /Users/charmelle/Sites/board/app/models/thread.php on line 36
+[22-May-2014 17:24:04 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/view.php on line 15
+[22-May-2014 17:24:04 Asia/Manila] PHP Notice:  Use of undefined constant write’ - assumed 'write’' in /Users/charmelle/Sites/board/app/views/thread/view.php on line 15
+[22-May-2014 17:24:04 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/view.php on line 15
+[22-May-2014 17:24:04 Asia/Manila] PHP Notice:  Use of undefined constant ’username’ - assumed '’username’' in /Users/charmelle/Sites/board/app/views/thread/view.php on line 17
+[22-May-2014 17:24:04 Asia/Manila] PHP Notice:  Use of undefined constant ’body’ - assumed '’body’' in /Users/charmelle/Sites/board/app/views/thread/view.php on line 19
+[22-May-2014 17:25:13 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[22-May-2014 17:26:18 Asia/Manila] PHP Notice:  Undefined variable: thread_id in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[22-May-2014 17:26:18 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/view.php on line 15
+[22-May-2014 17:26:18 Asia/Manila] PHP Notice:  Use of undefined constant write’ - assumed 'write’' in /Users/charmelle/Sites/board/app/views/thread/view.php on line 15
+[22-May-2014 17:26:18 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/view.php on line 15
+[22-May-2014 17:26:18 Asia/Manila] PHP Notice:  Use of undefined constant ’username’ - assumed '’username’' in /Users/charmelle/Sites/board/app/views/thread/view.php on line 17
+[22-May-2014 17:26:18 Asia/Manila] PHP Notice:  Use of undefined constant ’body’ - assumed '’body’' in /Users/charmelle/Sites/board/app/views/thread/view.php on line 19
+[22-May-2014 17:27:46 Asia/Manila] PHP Notice:  Undefined variable: thread_id in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[22-May-2014 17:27:46 Asia/Manila] PHP Notice:  Use of undefined constant ’body’ - assumed '’body’' in /Users/charmelle/Sites/board/app/views/thread/view.php on line 19
+[22-May-2014 17:27:59 Asia/Manila] PHP Notice:  Undefined variable: thread_id in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[22-May-2014 17:28:13 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 16:47:59 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 17:12:20 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 17:14:41 Asia/Manila] PHP Notice:  Undefined variable: id in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 17:16:41 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 17:16:52 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 17:16:53 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 17:16:58 Asia/Manila] PHP Parse error:  parse error, expecting `')'' in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 17:18:56 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 18:07:16 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 18:08:24 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 32
+[03-Jun-2014 18:08:35 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 32
+[03-Jun-2014 18:08:38 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 32
+[03-Jun-2014 18:08:44 Asia/Manila] PHP Parse error:  parse error, expecting `')'' in /Users/charmelle/Sites/board/app/models/thread.php on line 32
+[03-Jun-2014 18:08:47 Asia/Manila] PHP Parse error:  parse error, expecting `')'' in /Users/charmelle/Sites/board/app/models/thread.php on line 32
+[03-Jun-2014 18:09:20 Asia/Manila] PHP Parse error:  parse error, expecting `')'' in /Users/charmelle/Sites/board/app/models/thread.php on line 32
+[03-Jun-2014 18:09:27 Asia/Manila] PHP Parse error:  parse error, expecting `')'' in /Users/charmelle/Sites/board/app/models/thread.php on line 32
+[03-Jun-2014 18:09:29 Asia/Manila] PHP Parse error:  parse error, expecting `')'' in /Users/charmelle/Sites/board/app/models/thread.php on line 32
+[03-Jun-2014 18:09:47 Asia/Manila] PHP Parse error:  parse error, expecting `')'' in /Users/charmelle/Sites/board/app/models/thread.php on line 32
+[03-Jun-2014 18:10:05 Asia/Manila] PHP Parse error:  parse error, expecting `')'' in /Users/charmelle/Sites/board/app/models/thread.php on line 32
+[03-Jun-2014 18:10:18 Asia/Manila] PHP Parse error:  parse error, expecting `')'' in /Users/charmelle/Sites/board/app/models/thread.php on line 32
+[03-Jun-2014 18:10:20 Asia/Manila] PHP Parse error:  parse error, expecting `')'' in /Users/charmelle/Sites/board/app/models/thread.php on line 32
+[03-Jun-2014 18:10:21 Asia/Manila] PHP Parse error:  parse error, expecting `')'' in /Users/charmelle/Sites/board/app/models/thread.php on line 32
+[03-Jun-2014 18:11:27 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 32
+[03-Jun-2014 18:37:58 Asia/Manila] PHP Parse error:  parse error, expecting `')'' in /Users/charmelle/Sites/board/app/models/thread.php on line 32
+[03-Jun-2014 18:37:58 Asia/Manila] PHP Parse error:  parse error, expecting `')'' in /Users/charmelle/Sites/board/app/models/thread.php on line 32
+[03-Jun-2014 18:38:04 Asia/Manila] PHP Parse error:  parse error, expecting `')'' in /Users/charmelle/Sites/board/app/models/thread.php on line 32
+[03-Jun-2014 18:38:12 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 32
+[03-Jun-2014 18:38:23 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 32
+[03-Jun-2014 18:38:29 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 18:40:02 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 18:43:07 Asia/Manila] PHP Parse error:  parse error, expecting `T_STRING' or `T_VARIABLE' or `'{'' or `'$'' in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 18:43:08 Asia/Manila] PHP Parse error:  parse error, expecting `T_STRING' or `T_VARIABLE' or `'{'' or `'$'' in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 18:43:23 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 18:43:32 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 18:43:34 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 18:43:42 Asia/Manila] PHP Parse error:  parse error, expecting `')'' in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 18:43:52 Asia/Manila] PHP Notice:  Undefined variable: this in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 18:44:29 Asia/Manila] PHP Notice:  Undefined variable: this in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 18:44:54 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 18:46:07 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 18:46:12 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 18:46:21 Asia/Manila] PHP Notice:  Undefined variable: this in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 18:46:37 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 18:46:40 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 18:46:59 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 33
+[03-Jun-2014 18:47:47 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 36
+[03-Jun-2014 18:47:51 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 36
+[03-Jun-2014 18:48:04 Asia/Manila] PHP Notice:  Undefined variable: rows in /Users/charmelle/Sites/board/app/models/thread.php on line 37
+[03-Jun-2014 18:48:04 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /Users/charmelle/Sites/board/app/models/thread.php on line 37
+[03-Jun-2014 18:50:19 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 31
+[03-Jun-2014 18:52:02 Asia/Manila] PHP Catchable fatal error:  Argument 1 passed to Model::__construct() must be an array, boolean given, called in /Users/charmelle/Sites/board/app/models/thread.php on line 22 and defined in /Users/charmelle/Sites/board/dietcake/core/model.php on line 8
+[03-Jun-2014 18:52:16 Asia/Manila] PHP Catchable fatal error:  Argument 1 passed to Model::__construct() must be an array, boolean given, called in /Users/charmelle/Sites/board/app/models/thread.php on line 22 and defined in /Users/charmelle/Sites/board/dietcake/core/model.php on line 8
+[03-Jun-2014 18:52:17 Asia/Manila] PHP Catchable fatal error:  Argument 1 passed to Model::__construct() must be an array, boolean given, called in /Users/charmelle/Sites/board/app/models/thread.php on line 22 and defined in /Users/charmelle/Sites/board/dietcake/core/model.php on line 8
+[03-Jun-2014 18:52:19 Asia/Manila] PHP Catchable fatal error:  Argument 1 passed to Model::__construct() must be an array, boolean given, called in /Users/charmelle/Sites/board/app/models/thread.php on line 22 and defined in /Users/charmelle/Sites/board/dietcake/core/model.php on line 8
+[03-Jun-2014 18:52:21 Asia/Manila] PHP Catchable fatal error:  Argument 1 passed to Model::__construct() must be an array, boolean given, called in /Users/charmelle/Sites/board/app/models/thread.php on line 22 and defined in /Users/charmelle/Sites/board/dietcake/core/model.php on line 8
+[03-Jun-2014 18:52:26 Asia/Manila] PHP Catchable fatal error:  Argument 1 passed to Model::__construct() must be an array, boolean given, called in /Users/charmelle/Sites/board/app/models/thread.php on line 22 and defined in /Users/charmelle/Sites/board/dietcake/core/model.php on line 8
+[03-Jun-2014 18:52:55 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 35
+[03-Jun-2014 18:53:13 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 35
+[03-Jun-2014 18:58:31 Asia/Manila] PHP Notice:  Undefined variable: id in /Users/charmelle/Sites/board/app/models/thread.php on line 34
+[03-Jun-2014 18:58:48 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 20
+[03-Jun-2014 18:59:02 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 34
+[03-Jun-2014 18:59:27 Asia/Manila] PHP Notice:  Undefined variable: this in /Users/charmelle/Sites/board/app/models/thread.php on line 30
+[03-Jun-2014 18:59:27 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 34
+[03-Jun-2014 19:00:24 Asia/Manila] PHP Fatal error:  Using $this when not in object context in /Users/charmelle/Sites/board/app/models/thread.php on line 35
+[03-Jun-2014 19:02:33 Asia/Manila] PHP Notice:  Undefined variable: this in /Users/charmelle/Sites/board/app/models/thread.php on line 31
+[03-Jun-2014 19:05:22 Asia/Manila] PHP Notice:  Undefined variable: this in /Users/charmelle/Sites/board/app/models/thread.php on line 31
+[03-Jun-2014 19:05:25 Asia/Manila] PHP Notice:  Undefined variable: this in /Users/charmelle/Sites/board/app/models/thread.php on line 31
+[03-Jun-2014 19:05:32 Asia/Manila] PHP Notice:  Undefined variable: this in /Users/charmelle/Sites/board/app/models/thread.php on line 31
+[03-Jun-2014 19:08:33 Asia/Manila] PHP Notice:  Undefined variable: this in /Users/charmelle/Sites/board/app/models/thread.php on line 31
+[03-Jun-2014 19:08:34 Asia/Manila] PHP Notice:  Undefined variable: this in /Users/charmelle/Sites/board/app/models/thread.php on line 31
+[03-Jun-2014 19:09:05 Asia/Manila] PHP Notice:  Undefined variable: this in /Users/charmelle/Sites/board/app/models/thread.php on line 31
+[03-Jun-2014 19:09:07 Asia/Manila] PHP Notice:  Undefined variable: this in /Users/charmelle/Sites/board/app/models/thread.php on line 31
+[04-Jun-2014 19:21:25 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'validate_between does not exist' in /Users/charmelle/Sites/board/dietcake/core/model.php:49
+Stack trace:
+#0 /Users/charmelle/Sites/board/app/models/thread.php(6): Model->validate()
+#1 /Users/charmelle/Sites/board/app/controllers/thread_controller.php(14): Thread->write(Object(Comment))
+#2 /Users/charmelle/Sites/board/dietcake/core/controller.php(46): ThreadController->write()
+#3 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(12): Controller->dispatchAction()
+#4 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#5 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/model.php on line 49
+[04-Jun-2014 19:24:02 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'validate_between does not exist' in /Users/charmelle/Sites/board/dietcake/core/model.php:49
+Stack trace:
+#0 /Users/charmelle/Sites/board/app/models/thread.php(6): Model->validate()
+#1 /Users/charmelle/Sites/board/app/controllers/thread_controller.php(19): Thread->write(Object(Comment))
+#2 /Users/charmelle/Sites/board/dietcake/core/controller.php(46): ThreadController->write()
+#3 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(12): Controller->dispatchAction()
+#4 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#5 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/model.php on line 49
+[04-Jun-2014 19:24:05 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'validate_between does not exist' in /Users/charmelle/Sites/board/dietcake/core/model.php:49
+Stack trace:
+#0 /Users/charmelle/Sites/board/app/models/thread.php(6): Model->validate()
+#1 /Users/charmelle/Sites/board/app/controllers/thread_controller.php(19): Thread->write(Object(Comment))
+#2 /Users/charmelle/Sites/board/dietcake/core/controller.php(46): ThreadController->write()
+#3 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(12): Controller->dispatchAction()
+#4 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#5 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/model.php on line 49
+[04-Jun-2014 19:37:14 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'validate_between does not exist' in /Users/charmelle/Sites/board/dietcake/core/model.php:49
+Stack trace:
+#0 /Users/charmelle/Sites/board/app/models/thread.php(6): Model->validate()
+#1 /Users/charmelle/Sites/board/app/controllers/thread_controller.php(19): Thread->write(Object(Comment))
+#2 /Users/charmelle/Sites/board/dietcake/core/controller.php(46): ThreadController->write()
+#3 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(12): Controller->dispatchAction()
+#4 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#5 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/model.php on line 49
+[04-Jun-2014 19:37:19 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'validate_between does not exist' in /Users/charmelle/Sites/board/dietcake/core/model.php:49
+Stack trace:
+#0 /Users/charmelle/Sites/board/app/models/thread.php(6): Model->validate()
+#1 /Users/charmelle/Sites/board/app/controllers/thread_controller.php(19): Thread->write(Object(Comment))
+#2 /Users/charmelle/Sites/board/dietcake/core/controller.php(46): ThreadController->write()
+#3 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(12): Controller->dispatchAction()
+#4 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#5 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/model.php on line 49
+[04-Jun-2014 19:40:08 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'validate_between does not exist' in /Users/charmelle/Sites/board/dietcake/core/model.php:49
+Stack trace:
+#0 /Users/charmelle/Sites/board/app/models/thread.php(6): Model->validate()
+#1 /Users/charmelle/Sites/board/app/controllers/thread_controller.php(19): Thread->write(Object(Comment))
+#2 /Users/charmelle/Sites/board/dietcake/core/controller.php(46): ThreadController->write()
+#3 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(12): Controller->dispatchAction()
+#4 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#5 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/model.php on line 49
+[04-Jun-2014 19:41:05 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'validate_between does not exist' in /Users/charmelle/Sites/board/dietcake/core/model.php:49
+Stack trace:
+#0 /Users/charmelle/Sites/board/app/models/thread.php(6): Model->validate()
+#1 /Users/charmelle/Sites/board/app/controllers/thread_controller.php(19): Thread::write(Object(Comment))
+#2 /Users/charmelle/Sites/board/dietcake/core/controller.php(46): ThreadController->write()
+#3 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(12): Controller->dispatchAction()
+#4 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#5 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/model.php on line 49
+[04-Jun-2014 19:41:11 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'validate_between does not exist' in /Users/charmelle/Sites/board/dietcake/core/model.php:49
+Stack trace:
+#0 /Users/charmelle/Sites/board/app/models/thread.php(6): Model->validate()
+#1 /Users/charmelle/Sites/board/app/controllers/thread_controller.php(19): Thread->write(Object(Comment))
+#2 /Users/charmelle/Sites/board/dietcake/core/controller.php(46): ThreadController->write()
+#3 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(12): Controller->dispatchAction()
+#4 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#5 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/model.php on line 49
+[04-Jun-2014 19:41:39 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'validate_between does not exist' in /Users/charmelle/Sites/board/dietcake/core/model.php:49
+Stack trace:
+#0 /Users/charmelle/Sites/board/app/models/thread.php(6): Model->validate()
+#1 /Users/charmelle/Sites/board/app/controllers/thread_controller.php(19): Thread->write(Object(Comment))
+#2 /Users/charmelle/Sites/board/dietcake/core/controller.php(46): ThreadController->write()
+#3 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(12): Controller->dispatchAction()
+#4 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#5 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/model.php on line 49
+[04-Jun-2014 19:47:38 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'validate_between does not exist' in /Users/charmelle/Sites/board/dietcake/core/model.php:49
+Stack trace:
+#0 /Users/charmelle/Sites/board/app/models/thread.php(6): Model->validate()
+#1 /Users/charmelle/Sites/board/app/controllers/thread_controller.php(17): Thread->write(Object(Comment))
+#2 /Users/charmelle/Sites/board/dietcake/core/controller.php(46): ThreadController->write()
+#3 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(12): Controller->dispatchAction()
+#4 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#5 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/model.php on line 49
+[04-Jun-2014 19:47:43 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'validate_between does not exist' in /Users/charmelle/Sites/board/dietcake/core/model.php:49
+Stack trace:
+#0 /Users/charmelle/Sites/board/app/models/thread.php(6): Model->validate()
+#1 /Users/charmelle/Sites/board/app/controllers/thread_controller.php(17): Thread->write(Object(Comment))
+#2 /Users/charmelle/Sites/board/dietcake/core/controller.php(46): ThreadController->write()
+#3 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(12): Controller->dispatchAction()
+#4 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#5 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/model.php on line 49
+[04-Jun-2014 19:49:58 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'validate_between does not exist' in /Users/charmelle/Sites/board/dietcake/core/model.php:49
+Stack trace:
+#0 /Users/charmelle/Sites/board/app/models/thread.php(6): Model->validate()
+#1 /Users/charmelle/Sites/board/app/controllers/thread_controller.php(18): Thread->write(Object(Comment))
+#2 /Users/charmelle/Sites/board/dietcake/core/controller.php(46): ThreadController->write()
+#3 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(12): Controller->dispatchAction()
+#4 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#5 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/model.php on line 49
+[04-Jun-2014 19:50:12 Asia/Manila] PHP Fatal error:  Uncaught exception 'DCException' with message 'validate_between does not exist' in /Users/charmelle/Sites/board/dietcake/core/model.php:49
+Stack trace:
+#0 /Users/charmelle/Sites/board/app/models/thread.php(6): Model->validate()
+#1 /Users/charmelle/Sites/board/app/controllers/thread_controller.php(18): Thread->write(Object(Comment))
+#2 /Users/charmelle/Sites/board/dietcake/core/controller.php(46): ThreadController->write()
+#3 /Users/charmelle/Sites/board/dietcake/core/dispatcher.php(12): Controller->dispatchAction()
+#4 /Users/charmelle/Sites/board/app/webroot/index.php(7): Dispatcher::invoke()
+#5 {main}
+  thrown in /Users/charmelle/Sites/board/dietcake/core/model.php on line 49
+[04-Jun-2014 19:54:58 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 14
+[04-Jun-2014 19:54:58 Asia/Manila] PHP Notice:  Use of undefined constant create’ - assumed 'create’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 14
+[04-Jun-2014 19:54:58 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 14
+[04-Jun-2014 20:07:29 Asia/Manila] PHP Notice:  Use of undefined constant ’thread - assumed '’thread' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 14
+[04-Jun-2014 20:07:29 Asia/Manila] PHP Notice:  Use of undefined constant create’ - assumed 'create’' in /Users/charmelle/Sites/board/app/views/thread/index.php on line 14
+[04-Jun-2014 20:07:29 Asia/Manila] PHP Warning:  Division by zero in /Users/charmelle/Sites/board/app/views/thread/index.php on line 14
+[04-Jun-2014 20:10:38 Asia/Manila] PHP Notice:  Undefined variable: v in /Users/charmelle/Sites/board/app/views/thread/view.php on line 4
+[04-Jun-2014 20:10:38 Asia/Manila] PHP Notice:  Trying to get property of non-object in /Users/charmelle/Sites/board/app/views/thread/view.php on line 4
+[04-Jun-2014 20:10:38 Asia/Manila] PHP Notice:  Undefined variable: s in /Users/charmelle/Sites/board/app/helpers/html_helper.php on line 11
+[04-Jun-2014 20:11:06 Asia/Manila] PHP Notice:  Undefined variable: v in /Users/charmelle/Sites/board/app/views/thread/view.php on line 4
+[04-Jun-2014 20:11:06 Asia/Manila] PHP Notice:  Trying to get property of non-object in /Users/charmelle/Sites/board/app/views/thread/view.php on line 4
+[04-Jun-2014 20:11:30 Asia/Manila] PHP Notice:  Undefined variable: v in /Users/charmelle/Sites/board/app/views/thread/view.php on line 4
+[04-Jun-2014 20:11:30 Asia/Manila] PHP Notice:  Trying to get property of non-object in /Users/charmelle/Sites/board/app/views/thread/view.php on line 4
+[04-Jun-2014 20:11:35 Asia/Manila] PHP Notice:  Undefined variable: v in /Users/charmelle/Sites/board/app/views/thread/view.php on line 4
+[04-Jun-2014 20:11:35 Asia/Manila] PHP Notice:  Trying to get property of non-object in /Users/charmelle/Sites/board/app/views/thread/view.php on line 4
